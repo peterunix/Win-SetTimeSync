@@ -1,0 +1,8 @@
+* Details
+Enables the Win32Time service and configures the NTP servers.
+This should fix the time.
+
+* Usage
+#+begin_src shell
+start ./script.bat
+#+end_src
